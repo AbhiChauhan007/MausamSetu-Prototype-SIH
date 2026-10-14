@@ -1,12 +1,12 @@
-# WeatherGPT
+# MausamSetu
 
 ### From Weather Information to Actionable Decisions
 
-WeatherGPT is a conversational weather intelligence platform designed to bring weather forecasts, alerts, risk information, and actionable guidance into one simple interface.
+MausamSetu is a conversational weather intelligence platform designed to bring weather forecasts, alerts, risk information, and actionable guidance into one simple interface.
 
 ## Prototype
 
-This repository contains the WeatherGPT UI Prototype.
+This repository contains the MausamSetu UI Prototype.
 
 It demonstrates the core user experience using demo weather data and predefined responses.
 
